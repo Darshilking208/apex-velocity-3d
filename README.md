@@ -10,6 +10,19 @@
 
 ---
 
+## 🏁 APEX Racing Series — Version History
+
+**APEX VELOCITY is Version 2 (V2) of the APEX racing series.** It follows the original Apex Circuit 3D project as a separate successor game.
+
+| Version | Game | Description | Links |
+|---|---|---|---|
+| **V1** | **Apex Circuit 3D** | Original 3D circuit racing game | [Play V1](https://apex-circuit-3d.darshillprajapati97.workers.dev) · [GitHub](https://github.com/Darshilking208/apex-circuit-3d) |
+| **V2** | **APEX VELOCITY** | Second game in the APEX racing series | [Play V2](https://apex-velocity-3d.darshillprajapati97.workers.dev) · [GitHub](https://github.com/Darshilking208/apex-velocity-3d) |
+
+Each version has its own repository, implementation and live deployment. **APEX VELOCITY is V2; Apex Circuit 3D remains the original V1 project.**
+
+---
+
 ## Features
 
 ### Game Modes
@@ -134,7 +147,8 @@ For a new deployment, review the project's Cloudflare build configuration and th
 **Darshil K Prajapati**
 
 - GitHub: [@Darshilking208](https://github.com/Darshilking208)
-- Repository: [Darshilking208/apex-velocity-3d](https://github.com/Darshilking208/apex-velocity-3d)
+- Repository: [APEX VELOCITY — V2](https://github.com/Darshilking208/apex-velocity-3d)
+- Previous version: [Apex Circuit 3D — V1](https://github.com/Darshilking208/apex-circuit-3d)
 
 ## 📄 License
 

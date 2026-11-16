@@ -1,0 +1,6 @@
+{
+  "name": "APEX VELOCITY — 3D Arcade Racing",
+  "description": "High-speed 3D twilight circuit & neon highway arcade racing game built with Three.js, procedural PBR hypercars, drifting physics, nitro boosts, and synthesized Web Audio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

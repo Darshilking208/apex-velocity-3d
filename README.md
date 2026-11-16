@@ -1,6 +1,12 @@
-# APEX VELOCITY
+# 🏎️ APEX VELOCITY
 
-A 3D twilight-circuit arcade racing game built with **Three.js**, **React**, **TypeScript**, and **Tailwind CSS**, featuring procedural PBR hypercars, arcade sim-cade drifting physics, nitro boost mechanics, AI rival racers, pooled particle effects, and a synthesized Web Audio API sound engine with zero external asset dependencies.
+<p align="center">
+  <a href="https://apex-velocity-3d.darshillprajapati97.workers.dev"><strong>🌐 PLAY APEX VELOCITY</strong></a>
+  &nbsp; • &nbsp;
+  <a href="https://github.com/Darshilking208/apex-velocity-3d"><strong>📦 SOURCE CODE</strong></a>
+</p>
+
+**A 3D arcade racing game set on a high-speed twilight circuit, powered by Three.js, React, TypeScript and Tailwind CSS.**
 
 ---
 
@@ -96,3 +102,44 @@ npm install
   ```bash
   npm run build
   ```
+
+---
+
+## 🌐 Live Demo
+
+Play the deployed game:
+
+**[Launch APEX VELOCITY](https://apex-velocity-3d.darshillprajapati97.workers.dev)**
+
+The production game is hosted on Cloudflare Workers. Append `?autostart=1` to the URL to skip the title screen and enter gameplay directly.
+
+## 🧰 Technology
+
+- React
+- TypeScript
+- Three.js
+- Tailwind CSS
+- Vite
+- Web Audio API
+- HTML5 Canvas textures
+
+## 🚀 Deployment
+
+This repository is connected to a Cloudflare Workers deployment.
+
+For a new deployment, review the project's Cloudflare build configuration and the scripts in `package.json`. The live URL above is the currently provided production address.
+
+## 👨‍💻 Author
+
+**Darshil K Prajapati**
+
+- GitHub: [@Darshilking208](https://github.com/Darshilking208)
+- Repository: [Darshilking208/apex-velocity-3d](https://github.com/Darshilking208/apex-velocity-3d)
+
+## 📄 License
+
+No license file is currently included in this repository. Unless a license is added, the default copyright rules apply.
+
+<p align="center">
+  <strong>APEX VELOCITY — Own the line. Control the drift. Chase the finish.</strong>
+</p>
